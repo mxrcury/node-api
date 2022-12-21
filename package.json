@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-basic-crud-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start:prod": "node index.js",
+    "start:dev": "nodemon index.js",
+    "start:multi":"nodemon multiservers.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "uuid": "^9.0.0"
+  }
+}
