@@ -1,2 +1,2 @@
 # NodeJS API
-Simple NodeJS Event driven library for API
+Simple Event driven API written with native NodeJS
