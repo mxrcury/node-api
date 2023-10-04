@@ -1,2 +1,2 @@
-# API for RS School task while learning NodeJS.
-Made by using native NodeJS
+# NodeJS API
+Simple NodeJS Event driven library for API
